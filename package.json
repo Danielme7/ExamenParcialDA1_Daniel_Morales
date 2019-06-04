@@ -1,0 +1,25 @@
+{
+  "name": "ajedrez",
+  "version": "1.0.0",
+  "description": "Tarea para el profe juan",
+  "main": "server.js",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "DNL",
+  "license": "ISC",
+  "keywords": [
+    "trabajo",
+    "dificil",
+    "ajedrez",
+    "hola"
+  ]
+}

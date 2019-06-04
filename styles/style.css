@@ -1,0 +1,46 @@
+body{
+    background-color: burlywood;
+}
+h3
+{
+    color: cornflowerblue;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tablero
+{
+width: 600px;
+height: 600px;
+margin: auto;
+}
+
+.fila_tablero
+{
+    width: 600px;
+    height: 12.5%;
+}
+
+.cuadro_negro
+{
+background-color: black;
+width: 12.5%;
+height: 100%;
+float: left;
+
+}
+.cuadro_blanco
+{
+    background-color: white;
+    width: 12.5%;
+    height: 100%;
+    float: left;
+}
+
+
